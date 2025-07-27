@@ -1,0 +1,3 @@
+Dev Accuracy (zero-shot): 0.48
+Test Accuracy (zero-shot): 0.49
+Train Accuracy (zero-shot): 0.51

@@ -1,0 +1,2 @@
+Dev Accuracy (pre-trained): 0.35
+Test Accuracy (pre-trained): 0.53

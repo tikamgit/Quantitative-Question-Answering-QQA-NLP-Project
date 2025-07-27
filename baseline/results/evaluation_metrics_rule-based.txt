@@ -1,0 +1,3 @@
+Dev Accuracy (rule-based): 0.52
+Test Accuracy (rule-based): 0.50
+Train Accuracy (rule-based): 0.49

@@ -1,5 +1,3 @@
-# Quantitative Question Answering QQA NLP Project
-
 # QQA Baseline Models
 
 This project implements three baseline models for the QQA dataset:
