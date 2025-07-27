@@ -47,6 +47,7 @@ Dev Accuracy (rule-based): 0.85
 
 Sample Predictions:
 Question 1: What is the distance if speed is 10 and time is 2?
+
 Prediction: 'Option 1', Answer: 'Option 1'
 --------------------------------------------------
 
