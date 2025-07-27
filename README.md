@@ -1,5 +1,7 @@
 # Quantitative Question Answering QQA NLP Project
 
+[![author](https://img.shields.io/badge/author-Tikam-ff69b4.svg?style=flat-square)](https://www.linkedin.com/in/tikamchand/)
+
 # QQA Baseline Models
 
 This project implements three baseline models for the QQA dataset:
